@@ -6,4 +6,4 @@
 
 <a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Pygame Wheel File</a>
 
-<a href = "https://youtu.be/_GikMdhAhv0">"Installing Python 3.6 and PyGame </a>
+<a href = "https://youtu.be/_GikMdhAhv0">Installing Python 3.6 and PyGame </a>
